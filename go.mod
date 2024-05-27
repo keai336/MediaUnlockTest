@@ -1,4 +1,4 @@
-module MediaUnlockTest
+module github.com/keai336/MediaUnlockTest
 
 go 1.20
 
